@@ -1,0 +1,14 @@
+#Attendance system with face recognition
+
+##Required
+1.Python
+2.Cmake
+3.Dlib
+4.Numpy
+5.Open-cv
+6.Face_recognition
+
+## How the system Work
+Suppose we make this for college, so we have student list with their id proof or pic
+we enter in file "imageattedance" 
+then if student come in class , the cctv camera will capture attendace with time of enter of student.
